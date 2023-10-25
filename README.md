@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **vineetkhemnani09@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1w-BJMAaxIVOaHLrdDmf-SsmLE9hBH9Xa/view?usp=drive_link)
+- 📄 Know about my experiences ([Resume](https://drive.google.com/file/d/1Fy_8l9XCj0Dpf6Gqm9pqZXSnCuy562Dc/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
