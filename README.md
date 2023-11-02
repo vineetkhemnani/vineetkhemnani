@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vineet Khemnani</h1>
-<h3 align="center">A passionate frontend developer and coding enthusiast who loves learning new things and work on new technologies everyday.</h3>
+<h3 align="center">A passionate fullstack developer and coding enthusiast who loves learning new things and work on new technologies everyday.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vineetkhemnani&label=Profile%20views&color=0e75b6&style=flat" alt="vineetkhemnani" /> </p>
 
