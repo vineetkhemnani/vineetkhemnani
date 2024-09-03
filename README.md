@@ -70,7 +70,7 @@
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://drive.google.com/file/d/1D2hRDKkW62YVlxGsxO9hzDeV2hAQ2nBG/view?usp=sharing' border='0' alt='My resume' /></a>
+<a href='https://drive.google.com/file/d/1D2hRDKkW62YVlxGsxO9hzDeV2hAQ2nBG/view?usp=sharing' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://www.rachelmaclean.com/wp-content/uploads/2016/06/download-cv-button.png' border='0' alt='My resume' /></a>
 </div>
 
 <br/>
