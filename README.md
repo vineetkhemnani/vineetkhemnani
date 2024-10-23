@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **Docker**
+ 🌱 I’m currently learning **Docker, Mapbox**
 
 💬 Ask me about **Node.js, React or anything**
 
